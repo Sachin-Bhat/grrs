@@ -1,2 +1,2 @@
 # grrs
-A simple gep clone using rust!
+A simple grep clone using rust!
